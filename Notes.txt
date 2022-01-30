@@ -1,0 +1,22 @@
+----- git commit -----
+
+users, store, 
+
+For human migration: 
+	- 2 functions from tasks.py commented
+	- core.env_constant has been copied
+	- __init__.py installed under core
+
+For shift migrations:
+	- add core.utils
+	- 2 functions from tasks.py commented
+
+transaction
+
+For upload migrations:
+	- add upload.formatChecker 
+
+----- migrations done: git commit -----
+
+copy all other files
+
